@@ -1,0 +1,10 @@
+C:\Users\daren\source\repos\ioopAssignmentSep23Intake\ioopAssignmentSep23Intake\bin\Debug\ioopAssignmentSep23Intake.exe.config
+C:\Users\daren\source\repos\ioopAssignmentSep23Intake\ioopAssignmentSep23Intake\bin\Debug\ioopAssignmentSep23Intake.exe
+C:\Users\daren\source\repos\ioopAssignmentSep23Intake\ioopAssignmentSep23Intake\bin\Debug\ioopAssignmentSep23Intake.pdb
+C:\Users\daren\source\repos\ioopAssignmentSep23Intake\ioopAssignmentSep23Intake\obj\Debug\ioopAssignmentSep23Intake.csproj.AssemblyReference.cache
+C:\Users\daren\source\repos\ioopAssignmentSep23Intake\ioopAssignmentSep23Intake\obj\Debug\ioopAssignmentSep23Intake.Properties.Resources.resources
+C:\Users\daren\source\repos\ioopAssignmentSep23Intake\ioopAssignmentSep23Intake\obj\Debug\ioopAssignmentSep23Intake.csproj.GenerateResource.cache
+C:\Users\daren\source\repos\ioopAssignmentSep23Intake\ioopAssignmentSep23Intake\obj\Debug\ioopAssignmentSep23Intake.csproj.CoreCompileInputs.cache
+C:\Users\daren\source\repos\ioopAssignmentSep23Intake\ioopAssignmentSep23Intake\obj\Debug\ioopAssignmentSep23Intake.exe
+C:\Users\daren\source\repos\ioopAssignmentSep23Intake\ioopAssignmentSep23Intake\obj\Debug\ioopAssignmentSep23Intake.pdb
+C:\Users\daren\source\repos\ioopAssignmentSep23Intake\ioopAssignmentSep23Intake\obj\Debug\ioopAssignmentSep23Intake.loginPage.resources
